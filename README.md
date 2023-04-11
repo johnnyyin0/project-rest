@@ -11,15 +11,17 @@ This repository consists of the backend server for the question and answer secti
 ## Components
 
 ## Installation Guide
-1) Install node and dependencies
+1) Fork and clone repo
+
+2) Install node and dependencies in terminal
 ```
 npm install
 ```
-2) Install PostgreSQL
+3) Install PostgreSQL
 
-3) Create database and run ETL to create tables
+4) Create database and run ETL to create tables
 
-4) Enjoy!
+5) Enjoy!
 
 ## Contributors
 <a href="https://github.com/HR-Team-Gandalf/sdc-questions-n-answers/graphs/contributors">
