@@ -1,0 +1,19 @@
+{
+  "name": "sdc-questions-n-answers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnnyyin0/sdc-questions-n-answers.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnnyyin0/sdc-questions-n-answers/issues"
+  },
+  "homepage": "https://github.com/johnnyyin0/sdc-questions-n-answers#readme"
+}
