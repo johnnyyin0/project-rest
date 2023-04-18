@@ -1,4 +1,4 @@
-# sdc-questions-n-answers
+# Project REST: sdc-questions-n-answers
 This repository consists of the backend server for the question and answer section of a front-end e-commerce website.
 
 ## Tech Stack
